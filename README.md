@@ -4,3 +4,5 @@ Repository containing portfolio of data science projects completed by me for aca
 
 
 For a more visually pleasant experience for browsing the portfolio, check out https://sites.google.com/10academy.org/david-elvis
+
+*Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.*
