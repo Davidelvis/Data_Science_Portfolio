@@ -33,7 +33,15 @@ For a more visually pleasant experience for browsing the portfolio, check out ht
 
 Covid-19 Data Analysis:Analysing the Covid-19 Data in differnt parts of India
 
+Covid19 Analysis on Kenyan Data and neighbouring countries and streaming data from WHO 
+
 Tools: Pandas, Folium, Seaborn and Matplotlib
+
+**Relational Database**
+
+Connecting SQL and python, and querying with python
+
+ Tools: Python, SQl
 
 I also dabble in all other kinds of technology. You can find a general portfolio https://sites.google.com/10academy.org/david-elvis
 
